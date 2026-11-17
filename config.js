@@ -1,6 +1,5 @@
-// Fill these two values from your Supabase project (Project Settings > API).
-// Leave them empty and answers are only kept in each student's own browser.
+// Supabase connection for A Signal's Journey.
 window.SJ_CONFIG = {
-  url: "",   // e.g. "https://abcdxyz.supabase.co"
-  key: ""    // the "anon public" key
+  url: "https://oqsglwfhsfdkclbgzsjx.supabase.co",
+  key: "sb_publishable_e60ANHked5FXnJuuZrkEjg_KzY3DxR8"
 };
